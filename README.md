@@ -2,8 +2,6 @@
 
 Project utilizing Spark to deploy ML models on real-time streamed data from a Kafka server.
 
-# Project 1 - Distributed Data
-
 - Chose to share this project as an example, to reflect my thought process and coding abilities with regards to:
 
 	- Spark
